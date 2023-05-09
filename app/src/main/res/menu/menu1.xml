@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/item_1"
+        android:title="왼쪽으로 기울이기" />
+    <item
+        android:id="@+id/item_2"
+        android:title="원래대로 돌리기" />
+    <item
+        android:id="@+id/item_3"
+        android:title="오른쪽으로 기울이기" />
+</menu>
